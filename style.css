@@ -1,0 +1,20 @@
+.slider {
+    width: 305px;
+    height: 305px;
+    border: 2px solid black;
+    margin: 30px auto;
+    overflow: hidden;
+}
+.slider-line {
+    width: 900px;
+    height: 300px;
+    display: flex;
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+.oneImage {
+    width: 300px;
+    height: 300px;
+    position: relative;
+}
